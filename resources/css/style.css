@@ -38,3 +38,13 @@ p {
   color: White;
   font-weight: bold;
 }
+
+#copyright{
+  font-size: 11px;
+}
+
+#Footer{
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+}
